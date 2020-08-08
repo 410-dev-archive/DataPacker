@@ -5,6 +5,8 @@ Secure & Simple Backup tool
 
 ### Disclaimer
 
+Developer of this software is not responsible for any data loss, machine failure, and other problems that occured while using this software. Please refer to MIT Open Source License for copyright and usage license.
+
 
 
 ### What does this backup?
